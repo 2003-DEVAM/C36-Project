@@ -1,1 +1,2 @@
-# C36-Project
+# New-Project-36
+A functioning virtual pet.
